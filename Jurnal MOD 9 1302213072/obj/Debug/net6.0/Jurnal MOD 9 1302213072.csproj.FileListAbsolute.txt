@@ -1,0 +1,32 @@
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\appsettings.json
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Jurnal MOD 9 1302213072.exe
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Jurnal MOD 9 1302213072.deps.json
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Jurnal MOD 9 1302213072.runtimeconfig.json
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Jurnal MOD 9 1302213072.dll
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Jurnal MOD 9 1302213072.pdb
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.csproj.AssemblyReference.cache
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.AssemblyInfoInputs.cache
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.AssemblyInfo.cs
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.csproj.CoreCompileInputs.cache
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\staticwebassets\msbuild.Jurnal MOD 9 1302213072.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\staticwebassets\msbuild.build.Jurnal MOD 9 1302213072.props
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Jurnal MOD 9 1302213072.props
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Jurnal MOD 9 1302213072.props
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\scopedcss\bundle\Jurnal MOD 9 1302213072.styles.css
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.csproj.CopyComplete
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.dll
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\refint\Jurnal MOD 9 1302213072.dll
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.pdb
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\Jurnal MOD 9 1302213072.genruntimeconfig.cache
+C:\Users\zaida\OneDrive\Documents\GitHub\JURNAL-MOD9\Jurnal MOD 9 1302213072\obj\Debug\net6.0\ref\Jurnal MOD 9 1302213072.dll
